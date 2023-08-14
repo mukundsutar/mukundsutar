@@ -1,17 +1,18 @@
 <h1 align="center">Hello There 👋, I'm Mukund Sutar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 -   👨‍💻 All of my projects are available at [https://github.com/mukundsutar?tab=repositories](https://github.com/mukundsutar?tab=repositories)
 
--   📫 How to reach me **mukundsutar1512@gmail.com**
+-   📫 How to reach me **mukundsutar1512@gmail.com** | (+91) 8275812026
 
--   📄 Know about my experiences [https://drive.google.com/file/d/1HtvaVdh9KK1VYeh1qp1o_qBzMvgyCni0/view?usp=sharing](https://drive.google.com/file/d/1HtvaVdh9KK1VYeh1qp1o_qBzMvgyCni0/view?usp=sharing)
+-   📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1HtvaVdh9KK1VYeh1qp1o_qBzMvgyCni0/view?usp=sharing)
 
--   ⚡ Fun fact **when I'm not coding, you can find me watching Car Reviews**
+-   ⚡ Fun fact: **when I'm not coding, you can find me watching Car Reviews**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mukund sutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukund sutar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mukund sutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mukund Sutar" height="30" width="40" /></a>
+<a href="https://github.com/mukundsutar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="MukundSutar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mukundsutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukundsutar" height="30" width="40" /></a>
 </p>
 
