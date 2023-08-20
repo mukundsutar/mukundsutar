@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Mukund Sutar</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
--   👨‍💻 All of my projects are available at my [github](https://github.com/mukundsutar?tab=repositories)
+-   👨‍💻 All of my projects are available on my [github](https://github.com/mukundsutar?tab=repositories)
 
 -   📫 How to reach me **mukundsutar1512@gmail.com** | (+91) 8275812026
 
