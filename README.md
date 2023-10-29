@@ -1,12 +1,12 @@
 <h1 align="center">Hello There 👋, I'm Mukund Sutar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <br/>
 
 -   👨‍💻 All of my projects are available on my [GitHub](https://github.com/mukundsutar?tab=repositories) for demo.
 
 -   📫 How to reach me **mukundsutar1512@gmail.com** | (+91) 8275812026
 
--   📄 Know about my experiences here my [Resume](https://drive.google.com/file/d/1HtvaVdh9KK1VYeh1qp1o_qBzMvgyCni0/view?usp=sharing).
+-   📄 Know about my experiences and my journey here my [Resume](https://drive.google.com/file/d/1HtvaVdh9KK1VYeh1qp1o_qBzMvgyCni0/view?usp=sharing).
 
 -   🌱 I’m currently learning: AWS Services and Bun Toolkit.
 
